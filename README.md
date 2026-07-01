@@ -1,2 +1,5 @@
-# clothes-price-prediction
-It aims to identify pricing patterns and key drivers of value across products. The analysis also evaluates revenue potential by category and brand performance. Ultimately, it supports data-driven pricing and product strategy decisions.
+ Hi im Innocent-John
+ im in intersted in Data Analysis, visualization,statistical Analysis
+ im currently learning Data Analysis with microsoft excel
+im looking to collaborate project related to Data Analysis
+how to reach me- innocont2007@gmail.com
