@@ -187,4 +187,4 @@ The analysis focuses on **Brand, Category, Material, and Size**, and applies **d
 **Innocent John**
 📊 Data Analysis Project
 
-im open to collaborate on data analysis, statiscal analysis, and visualization related projects. you can reach me via email innocont2007@gmail.com
+im open to collaborate on data analysis, statistical analysis, and visualization related projects. you can reach me via email innocont2007@gmail.com
